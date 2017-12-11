@@ -1,0 +1,48 @@
+[ 
+	{
+		"nombre":"Emelec Finalista",
+		"archivo":"emelec.jpg",
+		"generos":["deportes"]
+	},
+	{
+		"nombre":"Baloon de oro 2017",
+		"archivo":"balondeoro.jpg",
+		"generos":["deportes"]
+	},
+	{
+		"nombre":"Honduras protesta",
+		"archivo":"protesta.jpg",
+		"generos":["noticias"]
+	},
+	{
+		"nombre":"Consulta Ecuador",
+		"archivo":"consulta.jpg",
+		"generos":["noticias"]
+	},
+	{
+		"nombre":"Justin y Selena",
+		"archivo":"justinSelena.jpg",
+		"generos":["farandula"]
+	},
+	{
+		"nombre":"Grammys 2017",
+		"archivo":"residente.jpg",
+		"generos":["musica"]
+	},
+	{
+		"nombre":"Mejor artista",
+		"archivo":"maluma.jpg",
+		"generos":["musica", "farandula"]
+	},
+	{
+		"nombre":"Novia de Cristiano",
+		"archivo":"noviacristiano.jpg",
+		"generos":["noticias", "farandula"]
+	},
+	{
+		"nombre":"Tesla Motors",
+		"archivo":"tesla.jpg",
+		"generos":["tecnologia"]
+	},
+	
+]

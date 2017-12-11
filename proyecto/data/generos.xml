@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<root>
+    <generos>
+        <genero>
+            <titulo>Deportes</titulo>
+            <canciones>2</canciones>
+        </genero>
+        <genero>
+            <titulo>Noticias</titulo>
+            <canciones>4</canciones>
+        </genero>
+        <genero>
+            <titulo>Farandula</titulo>
+            <canciones>2</canciones>
+        </genero>
+        <genero>
+            <titulo>Musica</titulo>
+            <canciones>4</canciones>
+        </genero>
+        <genero>
+            <titulo>Tecnologia</titulo>
+            <canciones>4</canciones>
+        </genero>
+    </generos>
+</root>

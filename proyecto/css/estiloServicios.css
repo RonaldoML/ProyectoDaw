@@ -1,0 +1,201 @@
+
+div.menu{
+	border: 15px;
+	padding: 15px;
+        padding-top: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+}
+nav#colorNuevo{
+     background-color: #0099CC;
+}
+a.navlink{
+	background-color: #fafafa;
+}
+
+div.titulo {
+	border-bottom: 5px;
+	margin: 80px 50px 10px 50px;
+    border-bottom-style: solid;
+    border-bottom-color: #0099CC;
+    border-bottom-width: 2px;
+
+}
+
+
+body{
+    background-position: center;
+    background-size: 330vh;
+	border-top: 15px;
+	padding-top: 15px;
+	margin-top: 60px;
+	
+}
+
+.subtitulo{
+    margin-top: 10px;
+	margin-left: 50px;
+}
+
+
+.form_izq{
+	padding : 4px;
+}
+
+input.text{
+    border: 1px solid #c2d2e1;
+    padding: 4px;
+    color: #000;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+TEXTAREA {
+    border: 1px solid #c2d2e1;
+	margin-top: 3px;
+    padding: 4px;
+    color: #000;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input.submit {
+    cursor: pointer;
+    background-color: #0099CC;
+    border: 0px solid #CCC;
+    padding: 5px;
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 11px;
+}
+.box_contenido_paginas {
+    width: 990px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    overflow: hidden;
+	background-color: #e3f2fd;
+	border-bottom-style: solid;
+    border-bottom-color: #0099CC;
+    border-bottom-width: 2px;
+}
+.box_contenido_paginas_izq {
+    text-align: left;
+    float: left;
+    width: 720px;
+    overflow: hidden;
+    padding: 15px;
+}
+.box_contenido_paginas_der {
+    text-align: left;
+    margin: 0px;
+    float: right;
+    width: 250px;
+    overflow: hidden;
+    padding: 15px;
+}
+ #map {
+	border: 1px solid #CCC;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 200px;
+	height: 330px;
+	background-color: grey;
+ }
+
+
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;	
+	display: inline-block;
+	text-align: center;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+
+}
+html {
+  position: center;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 20px;
+}
+
+
+#footer {
+	position: bottom;
+	text-align: center;
+    background-color: #333333;
+    width: 100%;
+    height: 150px;
+    margin-top: 0px;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-style: solid;
+    border-color: #0099CC;
+    overflow: hidden;
+    color: #FFF;
+	
+
+}
+
+[class*="col-md-3"] {
+    position: center bottom;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    text-align: left;
+    padding: 15px 0;
+}
+
+.col-md-3{
+    position: center bottom;
+    text-align: :center;
+    float: none;
+	display: inline-block;
+	
+}
+
+#imgfoo{
+    width: 40px;
+    height: 40px;
+    position: center;
+}
+
+
+.row{
+    padding: 0px 105px;
+    /*font-size: 80%;
+position: center; */
+}
+
+
+/* Custom footer CSS
+-------------------------------------------------- */
+
+.container {
+	position: center;
+	width: auto;
+	max-width: 680px;
+	padding: -2px 15px;
+}
+.container .text-muted {
+  margin: 30px 0;
+}
+.footertext {
+	color: #ffffff;
+	
+}
