@@ -1,0 +1,290 @@
+.box_contenido_paginas {
+    text-align: left;
+    float: left;
+    width: 720px;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    padding: 15px;
+        padding-top: 15px;
+        padding-right: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+}
+
+nav#colorNuevo{
+	 /*background-image: url("img/noise.png");*/
+     background-color: #0099CC;
+    /* background-image: : url("img/logoSNP.png");
+     background-size: width:10px, height:10px;*/
+     
+
+}
+
+img#imgEncabezado{
+   background-image: url("img/logo blanco.png");
+   background-size: width:50px, height:50px;
+   background-repeat: no-repeat;
+    background-position: center ;
+   
+
+}
+a.navlink{
+	background-color: #fafafa;
+}
+
+nav>a>figure>img{
+ 
+}
+/*a[id*="logo"]{
+    background-image: : url("img/logoSNP.png");
+    background-size: width:522px, height:244px;
+}*/
+
+div#imagenSNP{
+	 
+	 background-size: width:522px, height:404px;
+	 background-repeat: no-repeat;
+
+    background-position: center ;
+    background-color: white;
+    
+}
+
+.display-1 {
+  
+  background-size: width:500px, height: 380px;
+  position: absolute; right: 440px; bottom: 320px; 
+  background-repeat: no-repeat;
+  background-position: center; 
+}
+
+
+
+.jumbotron{
+	background-color: #900C3F;
+
+}
+
+.container {
+  height: 250px;
+  width: 520px;
+
+}
+
+
+.imagen {
+  height: 420px;
+  width: 800px;
+
+}
+
+div#row{
+
+}
+
+main#main{
+	 /*background-image: url("img/noise2.png");*/
+     background-color: #e3f2fd;
+	  height: 1580px;
+
+}
+
+footer{
+	text-align: center;
+    background-color: #333333;
+	width: 100%;
+	margin-top: 0px;
+	border-top-width: thick;
+	border-bottom-width: thick;
+	border-style: solid;
+	border-color: #0099CC;
+	overflow: hidden;
+	color: #FFF;
+}
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+
+@media (min-width: 0px) and (max-width: 320px){
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+
+main#main{
+   /*background-image: url("img/noise2.png");*/
+     background-color: #e3f2fd;
+     height: 2900px;
+     box-sizing: border-box;
+
+}
+
+footer{
+  position: bottom;
+}
+
+
+
+}
+
+@media (min-width: 320px) and (max-width: 568px) { 
+
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+
+main#main{
+   /*background-image: url("img/noise2.png");*/
+     background-color: #e3f2fd;
+    height: 2700px;
+
+}
+
+
+}
+
+@media (min-width: 550px) and (max-width: 776px) { 
+
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+
+main#main{
+   /*background-image: url("img/noise2.png");*/
+     background-color: #e3f2fd;
+    height: 2700px;
+
+}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+
+  .col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+
+main#main{
+   /*background-image: url("img/noise2.png");*/
+     background-color: #e3f2fd;
+    height: 2500px;
+
+}
+
+
+}
+
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+
+-------------------------------------------------- 
+/* Footer styles
+-------------------------------------------------- */
+html {
+  position: center;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 80px;
+}
+#footer {
+  position: bottom;
+ text-align: center;
+    background-color: #333333;
+    width: 100%;
+    height: 150px;
+    margin-top: 0px;
+    border-top-width: thick;
+    border-bottom-width: thick;
+    border-style: solid;
+    border-color: #0099CC;
+    overflow: hidden;
+    color: #FFF;
+}
+
+[class*="footertext"] { font-size: 80%;
+position: center; }
+
+
+.row{
+    padding: 0px 105px;
+    /*font-size: 80%;
+position: center; */
+}
+
+[class*="col-md-3"] {
+    position: center bottom;
+    text-align: center;
+    float: none;
+    display: inline-block;
+    text-align: left;
+    padding: 15px 0;
+}
+
+.col-md-3{
+    position: center bottom;
+    text-align: :center;
+    float: none;
+  display: inline-block;
+  text-align: left;
+}
+
+#imgfoo{
+    width: 40px;
+    height: 40px;
+    
+}
+
+
+
+/* Custom footer CSS
+-------------------------------------------------- */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: -2px 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+.footertext {
+  color: #ffffff;
+}
